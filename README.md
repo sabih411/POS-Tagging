@@ -1,7 +1,7 @@
 # POS-Tagging
 Course Work of CMPSC-448 (The Pennsylvania State University)
 
-Consider opening the .ipynb notebook on Goole Colab[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabih411/POS-Tagging/blob/main/POS_TAGGING.ipynb) for best code-interface. Code is well structured in Sections and in cells under the corresponding sections. To Properly understand the organization of code in the .ipynb notebook, see the snippet below!
+Consider opening the .ipynb notebook on Goole Colab  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabih411/POS-Tagging/blob/main/POS_TAGGING.ipynb) for best code-interface. Code is well structured in Sections and in cells under the corresponding sections. To Properly understand the organization of code in the .ipynb notebook, see the snippet below!
 
 ![image](https://github.com/sabih411/POS-Tagging/assets/47940851/c7bd5cf9-c830-43db-8a20-1d9eeed96ba9)
 
