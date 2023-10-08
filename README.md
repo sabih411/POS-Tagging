@@ -24,3 +24,4 @@ Consider opening the .ipynb notebook on Goole Colab  [![Open In Colab](https://c
       |->word2vec.model   #Weight file of gensim FastText
   ```
   * The code shows two evaluation strategies and based on Dev-set performance the  latter one (Best Probabilistic Difference strategy) was selected for evaluating the Test Data.
+  * The final output obtained post testing the file named **unlabeled_test_test.txt** is saved in the Git Repo (named: **MLnewbie.test.txt**).
